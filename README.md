@@ -82,6 +82,11 @@ A simple FastAPI-based application for predicting Iris species using a trained R
 }
 ```
 
+## License
+
+MIT License
+
+
 ## Contact
 
 For questions, contact octavian.wr@gmail.com.
