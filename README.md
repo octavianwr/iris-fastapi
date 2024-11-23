@@ -64,21 +64,23 @@ A simple FastAPI-based application for predicting Iris species using a trained R
     - Output: Predicted Iris species.
 
 ### Example input:
-    ```json
-    {
-        "sepal_length": 5.1,
-        "sepal_width": 3.5,
-        "petal_length": 1.4,
-        "petal_width": 0.2
-    }
-    ```
+
+```json
+{
+    "sepal_length": 5.1,
+    "sepal_width": 3.5,
+    "petal_length": 1.4,
+    "petal_width": 0.2
+}
+```
 
 ### Example output:
-    ```json
-    {
-        "species": "setosa"
-    }
-    ```
+
+```json
+{
+    "species": "setosa"
+}
+```
 
 ## Contact
 
